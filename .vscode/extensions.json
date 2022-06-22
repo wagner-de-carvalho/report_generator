@@ -1,5 +1,7 @@
 {
     "recommendations": [
-        "saratravi.elixir-formatter"
+        "saratravi.elixir-formatter",
+        "jakebecker.elixir-ls",
+        "sammkj.vscode-elixir-formatter"
     ]
 }
